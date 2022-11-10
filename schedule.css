@@ -1,0 +1,58 @@
+.schedulePic {
+    background-size:auto;
+    background-position: left;
+    background-image: url(d363328e0a356c3838f2439cab06c2ed-hexagon-floral-frame-frame.png);
+    background-repeat: no-repeat;
+    height: 350px;
+    position: relative;
+    bottom: 40px;
+}
+
+h1 {
+    text-align: left;
+    text-indent: 137px;
+    font-size: 60px;
+    font-family: didot;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    position: relative;
+    top: 80px;
+}
+
+fieldset {
+    float: right;
+    width: 550px;
+    height: ;
+    margin-right: 30em;
+    position: relative;
+    bottom: 50px;
+    left: 310px
+}
+
+h2 {
+    display:;
+    border: solid 1px;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+
+a {
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+
+.bottomNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    font-family: didot;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 4px;
+    background-color: peachpuff;
+}

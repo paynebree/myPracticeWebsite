@@ -1,0 +1,89 @@
+.imageRoll {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-style: double;
+    padding: 5px;
+}
+
+.top2lines {
+    background-size:auto;
+    background-position: center;
+    background-image: url(d363328e0a356c3838f2439cab06c2ed-hexagon-floral-frame-frame.png);
+    background-repeat: no-repeat;
+    height: 330px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: didot;
+    position: relative;
+    top: 30px;
+}
+
+.ourNames {
+    text-align: center;
+    font-size: 30px;
+    font-family: Snell Roundhand;
+    position: relative;
+    bottom: 20px;
+}
+
+.secondSections {
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+}
+
+.locationDate {
+    text-align: center;
+    border: solid 1px;
+    padding: 5px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 400px;
+}
+
+.LDTitle {
+    position: relative;
+    bottom: 22px;
+}
+
+#rosemary {
+    transform: rotate(35deg);
+    position: relative;
+    bottom:10px;
+}
+
+#udrosemary {
+    transform: rotate(35deg);
+    position: relative;
+    bottom: 23px;
+}
+
+.rsvpDressCode {
+    border: solid 1px;
+    padding: 5px;
+    height: 300px;
+    width: 400px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+
+.bottomNav {
+    display: flex;
+    justify-content: space-between;
+    font-family: didot;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 4px;
+    background-color: peachpuff;
+}
